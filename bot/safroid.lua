@@ -253,8 +253,7 @@ function create_config( )
     "telesticker",
     "text",
     "time",
-    "webshot",
-    "welcome"
+    "webshot"
     },
     sudo_users = {199642007,282834747},--Sudo users
     disabled_channels = {},
